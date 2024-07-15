@@ -1,12 +1,17 @@
+.bg_color{
+    background: #1C3B75;
+}
+
 .bg_login {
-    background: #fb1c15;
-    background: linear-gradient(0deg, rgba(251,28,21,1) 0%, rgba(255,106,100,1) 35%);
+    background: #659CFB;
     border: none;
     color: #fff;
     font-weight: bold;
     padding: 6px 20px;
     text-transform: capitalize;
 }
-a{
+
+.links{
     text-decoration: none;
+    color: #fff !important;
 }
